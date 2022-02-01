@@ -14,7 +14,7 @@ const Navbar = () => {
 				<a>About</a>
 			</Link>
 			<Link href="ninjas">
-				<a>Ninja Listing</a>
+				<a>Ninja List</a>
 			</Link>
 		</nav>
 	);
